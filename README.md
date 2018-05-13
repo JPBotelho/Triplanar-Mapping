@@ -21,4 +21,4 @@ A collection of a few simple triplanar mapping shaders.
 ![Snow](Renders/Snow.png "Snow")
 
 # Consider buying me a coffee if you like my work (click the image)
-[![Foo](coffee.png)](https://www.buymeacoffee.com/ZcRuWpUBf)
+[![Foo](Renders/coffee.png)](https://www.buymeacoffee.com/ZcRuWpUBf)
